@@ -24,7 +24,7 @@ on dataset collected for this purpose. The
 results show that the proposed approach may
 represent a major contribution for a more
 efficient waste management in smart cities. 
-
+.
  # DATA 
  The collection of the images of the dataset
 has been made using Google Images
